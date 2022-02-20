@@ -37,7 +37,7 @@ pip install -r requirement.txt
 ```
 
 ### （2）注册[TT识图](http://www.ttshitu.com/)账户，完成充值
-### （2）新建info.txt，填写信息
+### （3）新建info.txt，填写信息
 以下是填写规范（info.txt）：
 * 第一行：邮箱服务器地址（例：qq邮箱对应smtp.qq.com）
 * 第二行：收件邮箱（自己的邮箱 例：***@qq.com）
