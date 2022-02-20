@@ -28,7 +28,7 @@
 # 使用方法
 
 ## 1.环境配置
-<font color=#DC143C>首先要保证shell运行在项目根目录下！</font>
+<font color=#DC143C>首先要保证已安装python3.8及以上，在项目根目录下打开shell</font>
 
 ### （1）安装第三方依赖库
 ```
