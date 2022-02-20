@@ -432,7 +432,7 @@ class Electool():
                 self.pr("验证码图片损毁，正在强制重启...")
                 if self.state not in (STATE.RESTARTING,STATE.STOPPED):
                     self.pe(ERROR.VALID_CODE_ERROR)
-                    while True:time.sleep(1)
+                    while 1:time.sleep(1)
 
             toc=time.time()
             self.pr(f"Prediction function called.  Time cost: {toc-tic}s\n")
