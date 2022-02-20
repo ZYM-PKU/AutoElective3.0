@@ -1,6 +1,6 @@
 # AutoElective3.0
 
-<font color=#999AAA >基于Web自动化测试与卷积神经网络自主开发的可视化选课应用
+<font color=#999AAA >基于Web自动化测试自主开发的可视化选课应用
 </font>
 
  
