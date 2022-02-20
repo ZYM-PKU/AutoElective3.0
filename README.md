@@ -29,7 +29,7 @@
 # 使用方法
 
 ## 1.环境配置
-<font color=#DC143C>首先要保证已安装python3.8及以上，在项目根目录下打开shell</font>
+*首先要保证已安装[Python3.8](https://www.python.org/)及以上，在项目根目录下打开shell：*
 
 ### （1）安装第三方依赖库
 ```
@@ -46,7 +46,7 @@ pip install -r requirement.txt
 * 第五行：TT识图密码
 
 
-<font color=#2A5CAA>注：不需要邮件提醒时，前三行可以都用“******”代替</font>
+*注：不需要邮件提醒时，前三行可以都用“xxxxxx”代替*
 
 
 ## 2.运行程序
