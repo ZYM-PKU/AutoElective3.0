@@ -716,11 +716,6 @@ class Electool():
                     self.pe(ERROR.REFRESH_ERROR)
                     while True:time.sleep(1)
             
-            # current_cookies = self.browser.get_cookies()
-            # self.browser.delete_all_cookies()
-            # self.browser.add_cookie({'name' : 'UM_distinctid', 'value' : '17b729cd613705-0101623f154e43-c343365-144000-17b729cd614518'})
-            # self.browser.add_cookie(current_cookies[1])
-            # self.browser.add_cookie(current_cookies[0])
             self.browser.refresh()#刷新
             self.pr("\n系统时间:  "+self.gettime()+"  刷新次数： "+str(self.refresh_count)+"次\n")
             self.refresh_count+=1
